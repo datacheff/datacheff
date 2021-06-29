@@ -4,7 +4,7 @@
 
 E-mail: kyeb98@agape.hanyang.ac.kr
 
-BS: Industrial Engineering
+BS: Industrial Engineering &  Big Data Science Engineering
 
 MS: Artificial Intelligence
 
