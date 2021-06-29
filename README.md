@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-#### 🌼 About me
+# 🌼 About me
 E-mail: kyeb98@agape.hanyang.ac.kr
 BS: Industrial Engineering
 MS: Artificial Intelligence
 
-#### 🌵 My interests
+# 🌵 My interests
 Machine Learning, Deep Learning
 Recommendation System
