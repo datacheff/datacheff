@@ -12,4 +12,4 @@ MS: Artificial Intelligence
 
 Machine Learning, Deep Learning
 
-Recommendation System
+Point-Of-Interest Recommendation System
